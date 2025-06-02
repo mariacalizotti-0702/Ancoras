@@ -3,4 +3,5 @@ body {
 }
  h1 {
     background-color: rgb(98, 98, 234); /* Cor de fundo azul */
+     text-align: center;
 }
